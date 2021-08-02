@@ -1,1 +1,2 @@
-A CommerceJs based E-Commerce React Application
+A CommerceJs based E-Commerce Application made with React.js
+
